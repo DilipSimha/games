@@ -3,3 +3,5 @@
 .country-arrow{pointer-events:none}.target-halo{fill:#fff2;stroke:#df3939;stroke-width:3;filter:drop-shadow(0 1px 2px #fff)}.arrow-outline,.arrow-line{fill:none;stroke-linecap:round;stroke-linejoin:round}.arrow-outline{stroke:white;stroke-width:12}.arrow-line{stroke:#d52d39;stroke-width:6}.map-tools{flex-wrap:wrap;left:12px;justify-content:flex-end}.land.active{fill:#ffcc38;stroke:#624508;stroke-width:2.8px}.map-frame{min-height:200px}
 
 .medallion.portrait-clue{width:180px;height:225px;border-radius:14px;background-size:600% 800%;background-repeat:no-repeat;font-size:42px;background-color:#ffffff12}.portrait-hint{color:#e2edf0;font-size:13px;margin:14px 0 0;min-height:20px}
+
+.flag.country-flag{display:block;flex:0 0 180px;width:180px;height:120px;background-image:url('country-flags.png?v=flags1');background-size:1300% 1500%;background-repeat:no-repeat;border:1px solid #dcccae;border-radius:6px}.answer-title{flex-wrap:wrap}@media(max-width:440px){.flag.country-flag{flex-basis:150px;width:150px;height:100px}}
