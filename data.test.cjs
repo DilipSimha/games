@@ -3,7 +3,7 @@ const assert = require('node:assert/strict');
 const fs = require('node:fs');
 const vm = require('node:vm');
 const read = name => JSON.parse(fs.readFileSync(name+'.json','utf8'));
-const exists = name => assert(fs.statSync(name).size > 0, name);
+const exists = name => { if(fs.existsSync(name)) assert(fs.statSync(name).size > 0, name); else {const asset=read(name.replace(/\.webp$/,''));assert.equal(asset.file,name);assert.match(asset.data,/^data:image\/webp;base64,/);const bytes=Buffer.from(asset.data.split(',')[1],'base64');assert.equal(bytes.toString('ascii',0,4),'RIFF');assert.equal(bytes.toString('ascii',8,12),'WEBP');} };
 function unique(rows, field='id') { assert.equal(new Set(rows.map(x=>x[field])).size, rows.length); }
 test('world: 195 countries, six continents, complete dated facts, flags and isolated clips', () => {
   const rows=read('world-data'), map=read('world-map'), clips=read('world-narration');
@@ -46,6 +46,7 @@ test('USA: 50 map features, admission histories and electoral data',()=>{
   for(const x of states) {assert(map.features.some(f=>f.properties.name===x.name));const h=admissionHistory[x.code];assert(h.date&&h.president&&h.route&&h.story);assert(x.pop>0&&x.house>0)}
   assert(elections[2024]);
 });
+test('packed celebrity art contains complete WebP images',()=>{for(const name of ['celebrity-faces-6','celebrity-faces-7','celebrity-eyes-extra']){const asset=read(name);assert.equal(asset.file,name+'.webp');const bytes=Buffer.from(asset.data.split(',')[1],'base64');assert.equal(bytes.toString('ascii',0,4),'RIFF');assert.equal(bytes.toString('ascii',8,12),'WEBP');assert(bytes.length>1000)}});
 test('audio segments and celebrity sprite coordinates reference bundled assets',()=>{
   const segments=read('suite-audio');
   const all=[...read('india-data'),...Object.values(read('leaders-data')).flat()];
