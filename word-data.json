@@ -1,0 +1,1202 @@
+[
+  {
+    "word": "cat",
+    "difficulty": "easy",
+    "meaning": "A small animal often kept as a pet.",
+    "sentence": "The cat slept beside the window."
+  },
+  {
+    "word": "cow",
+    "difficulty": "easy",
+    "meaning": "A large farm animal that gives milk.",
+    "sentence": "The cow grazed in the field."
+  },
+  {
+    "word": "sun",
+    "difficulty": "easy",
+    "meaning": "The star that gives Earth light and heat.",
+    "sentence": "The sun warmed the garden."
+  },
+  {
+    "word": "hat",
+    "difficulty": "easy",
+    "meaning": "Something worn on the head.",
+    "sentence": "I wore a hat on our walk."
+  },
+  {
+    "word": "bed",
+    "difficulty": "easy",
+    "meaning": "A piece of furniture used for sleeping.",
+    "sentence": "She put a soft blanket on the bed."
+  },
+  {
+    "word": "pen",
+    "difficulty": "easy",
+    "meaning": "A tool that writes with ink.",
+    "sentence": "He used a blue pen to write his name."
+  },
+  {
+    "word": "bus",
+    "difficulty": "easy",
+    "meaning": "A large vehicle that carries passengers.",
+    "sentence": "We rode the bus to school."
+  },
+  {
+    "word": "cup",
+    "difficulty": "easy",
+    "meaning": "A small container used for drinking.",
+    "sentence": "She filled her cup with water."
+  },
+  {
+    "word": "map",
+    "difficulty": "easy",
+    "meaning": "A drawing that shows places and directions.",
+    "sentence": "We used a map to find the park."
+  },
+  {
+    "word": "pig",
+    "difficulty": "easy",
+    "meaning": "A farm animal with a rounded nose.",
+    "sentence": "The pig rested in the shade."
+  },
+  {
+    "word": "bird",
+    "difficulty": "easy",
+    "meaning": "An animal with feathers and wings.",
+    "sentence": "A bird landed on the fence."
+  },
+  {
+    "word": "book",
+    "difficulty": "easy",
+    "meaning": "Pages joined together for reading.",
+    "sentence": "I borrowed a book from the library."
+  },
+  {
+    "word": "cake",
+    "difficulty": "easy",
+    "meaning": "A sweet baked food often served at celebrations.",
+    "sentence": "We shared a cake at the party."
+  },
+  {
+    "word": "door",
+    "difficulty": "easy",
+    "meaning": "A movable panel used to enter or leave a room.",
+    "sentence": "Please close the door gently."
+  },
+  {
+    "word": "fish",
+    "difficulty": "easy",
+    "meaning": "An animal that lives in water and breathes through gills.",
+    "sentence": "We watched a fish swim past the rocks."
+  },
+  {
+    "word": "frog",
+    "difficulty": "easy",
+    "meaning": "A small jumping animal that can live on land and in water.",
+    "sentence": "The frog jumped into the pond."
+  },
+  {
+    "word": "hand",
+    "difficulty": "easy",
+    "meaning": "The part of your body at the end of your arm.",
+    "sentence": "She raised her hand to ask a question."
+  },
+  {
+    "word": "kite",
+    "difficulty": "easy",
+    "meaning": "A light frame flown in the wind on a string.",
+    "sentence": "My kite flew above the field."
+  },
+  {
+    "word": "leaf",
+    "difficulty": "easy",
+    "meaning": "A usually flat, green part of a plant.",
+    "sentence": "A leaf drifted down from the tree."
+  },
+  {
+    "word": "moon",
+    "difficulty": "easy",
+    "meaning": "The natural object that travels around Earth.",
+    "sentence": "The moon looked bright above the lake."
+  },
+  {
+    "word": "apple",
+    "difficulty": "easy",
+    "meaning": "A round fruit with a core and thin skin.",
+    "sentence": "I packed an apple in my lunch."
+  },
+  {
+    "word": "beach",
+    "difficulty": "easy",
+    "meaning": "Land covered with sand or stones beside water.",
+    "sentence": "We built a sandcastle on the beach."
+  },
+  {
+    "word": "bread",
+    "difficulty": "easy",
+    "meaning": "Food baked from dough, often made with flour and water.",
+    "sentence": "She sliced the bread for our sandwiches."
+  },
+  {
+    "word": "chair",
+    "difficulty": "easy",
+    "meaning": "A seat with a back, usually for one person.",
+    "sentence": "He pulled a chair up to the table."
+  },
+  {
+    "word": "cloud",
+    "difficulty": "easy",
+    "meaning": "A collection of tiny water drops or ice crystals in the sky.",
+    "sentence": "A white cloud floated above the hill."
+  },
+  {
+    "word": "dream",
+    "difficulty": "easy",
+    "meaning": "Pictures and experiences in your mind while you sleep.",
+    "sentence": "I had a dream about flying over a forest."
+  },
+  {
+    "word": "fruit",
+    "difficulty": "easy",
+    "meaning": "The part of a flowering plant that contains seeds, often eaten as food.",
+    "sentence": "We put fresh fruit in the bowl."
+  },
+  {
+    "word": "grass",
+    "difficulty": "easy",
+    "meaning": "A plant with narrow leaves that often covers lawns and fields.",
+    "sentence": "The grass felt cool under my feet."
+  },
+  {
+    "word": "plant",
+    "difficulty": "easy",
+    "meaning": "A living thing that usually grows in soil and uses sunlight to make food.",
+    "sentence": "We watered the plant by the window."
+  },
+  {
+    "word": "water",
+    "difficulty": "easy",
+    "meaning": "The clear liquid that people, animals, and plants need to live.",
+    "sentence": "Please drink some water after your run."
+  },
+  {
+    "word": "banana",
+    "difficulty": "easy",
+    "meaning": "A long fruit with a peel, often yellow when ripe.",
+    "sentence": "I peeled a banana for my snack."
+  },
+  {
+    "word": "basket",
+    "difficulty": "easy",
+    "meaning": "A container made from strips woven together.",
+    "sentence": "We carried our picnic in a basket."
+  },
+  {
+    "word": "button",
+    "difficulty": "easy",
+    "meaning": "A small fastener pushed through a hole to hold clothing closed.",
+    "sentence": "She fastened the top button of her coat."
+  },
+  {
+    "word": "castle",
+    "difficulty": "easy",
+    "meaning": "A large, strong building once used to protect rulers and their people.",
+    "sentence": "We explored the old castle on the hill."
+  },
+  {
+    "word": "garden",
+    "difficulty": "easy",
+    "meaning": "A place where flowers, vegetables, or other plants are grown.",
+    "sentence": "We planted carrots in the garden."
+  },
+  {
+    "word": "kitten",
+    "difficulty": "easy",
+    "meaning": "A young cat.",
+    "sentence": "The kitten chased a piece of string."
+  },
+  {
+    "word": "orange",
+    "difficulty": "easy",
+    "meaning": "A round citrus fruit with a thick peel.",
+    "sentence": "He divided the orange into juicy sections."
+  },
+  {
+    "word": "planet",
+    "difficulty": "easy",
+    "meaning": "A large, rounded object that travels around a star.",
+    "sentence": "Earth is the planet where we live."
+  },
+  {
+    "word": "rabbit",
+    "difficulty": "easy",
+    "meaning": "An animal with long ears, soft fur, and strong back legs.",
+    "sentence": "The rabbit hopped across the grass."
+  },
+  {
+    "word": "school",
+    "difficulty": "easy",
+    "meaning": "A place where children learn.",
+    "sentence": "We walked to school together."
+  },
+  {
+    "word": "balloon",
+    "difficulty": "easy",
+    "meaning": "A thin bag filled with air or gas.",
+    "sentence": "A red balloon floated above the party table."
+  },
+  {
+    "word": "blanket",
+    "difficulty": "easy",
+    "meaning": "A large piece of material used to keep warm.",
+    "sentence": "She wrapped a blanket around her shoulders."
+  },
+  {
+    "word": "chicken",
+    "difficulty": "easy",
+    "meaning": "A farm bird kept for its eggs or meat.",
+    "sentence": "The chicken pecked at seeds on the ground."
+  },
+  {
+    "word": "dolphin",
+    "difficulty": "easy",
+    "meaning": "A sea mammal that breathes air and often lives in groups.",
+    "sentence": "A dolphin leaped beside the boat."
+  },
+  {
+    "word": "feather",
+    "difficulty": "easy",
+    "meaning": "One of the light structures that cover a bird's body.",
+    "sentence": "We found a feather near the path."
+  },
+  {
+    "word": "giraffe",
+    "difficulty": "easy",
+    "meaning": "A tall African animal with a very long neck.",
+    "sentence": "The giraffe reached leaves high in the tree."
+  },
+  {
+    "word": "picture",
+    "difficulty": "easy",
+    "meaning": "An image made by drawing, painting, or taking a photograph.",
+    "sentence": "She drew a picture of our family."
+  },
+  {
+    "word": "rainbow",
+    "difficulty": "easy",
+    "meaning": "An arc of colors formed when sunlight passes through water drops.",
+    "sentence": "A rainbow appeared after the shower."
+  },
+  {
+    "word": "teacher",
+    "difficulty": "easy",
+    "meaning": "A person who helps others learn.",
+    "sentence": "Our teacher showed us a new way to solve the problem."
+  },
+  {
+    "word": "unicorn",
+    "difficulty": "easy",
+    "meaning": "A legendary animal often shown as a horse with one horn.",
+    "sentence": "The story described a unicorn with a silver horn."
+  },
+  {
+    "word": "ant",
+    "difficulty": "medium",
+    "meaning": "A small insect that usually lives in an organized colony.",
+    "sentence": "An ant carried a crumb toward its nest."
+  },
+  {
+    "word": "ash",
+    "difficulty": "medium",
+    "meaning": "The powder left after something burns.",
+    "sentence": "Cold ash remained in the fireplace."
+  },
+  {
+    "word": "bow",
+    "difficulty": "medium",
+    "meaning": "A knot with two loops, often tied with ribbon.",
+    "sentence": "She tied a bow around the gift."
+  },
+  {
+    "word": "dew",
+    "difficulty": "medium",
+    "meaning": "Tiny water drops that form on cool surfaces.",
+    "sentence": "Morning dew covered the grass."
+  },
+  {
+    "word": "elm",
+    "difficulty": "medium",
+    "meaning": "A type of tree with broad leaves.",
+    "sentence": "An elm shaded the corner of the playground."
+  },
+  {
+    "word": "gem",
+    "difficulty": "medium",
+    "meaning": "A valuable stone used in jewelry.",
+    "sentence": "The gem sparkled in the sunlight."
+  },
+  {
+    "word": "ink",
+    "difficulty": "medium",
+    "meaning": "A colored liquid used for writing or printing.",
+    "sentence": "The printer needed more ink."
+  },
+  {
+    "word": "log",
+    "difficulty": "medium",
+    "meaning": "A length of tree trunk or a thick branch.",
+    "sentence": "We sat on a log beside the trail."
+  },
+  {
+    "word": "net",
+    "difficulty": "medium",
+    "meaning": "A material made of connected threads with spaces between them.",
+    "sentence": "The ball landed in the net."
+  },
+  {
+    "word": "oar",
+    "difficulty": "medium",
+    "meaning": "A pole with a wide, flat end used to move a boat through water.",
+    "sentence": "He dipped an oar into the lake."
+  },
+  {
+    "word": "calm",
+    "difficulty": "medium",
+    "meaning": "Peaceful and free from worry or disturbance.",
+    "sentence": "She stayed calm while solving the puzzle."
+  },
+  {
+    "word": "clue",
+    "difficulty": "medium",
+    "meaning": "Information that helps solve a problem or mystery.",
+    "sentence": "The muddy footprint was an important clue."
+  },
+  {
+    "word": "dusk",
+    "difficulty": "medium",
+    "meaning": "The time in the evening when daylight is fading.",
+    "sentence": "We returned home at dusk."
+  },
+  {
+    "word": "echo",
+    "difficulty": "medium",
+    "meaning": "A sound heard again after it reflects from a surface.",
+    "sentence": "We heard an echo inside the empty tunnel."
+  },
+  {
+    "word": "fern",
+    "difficulty": "medium",
+    "meaning": "A plant with divided leaves that reproduces using spores.",
+    "sentence": "A fern grew in the shady corner."
+  },
+  {
+    "word": "glow",
+    "difficulty": "medium",
+    "meaning": "A soft, steady light.",
+    "sentence": "The lantern gave the tent a warm glow."
+  },
+  {
+    "word": "melt",
+    "difficulty": "medium",
+    "meaning": "To change from a solid into a liquid because of heat.",
+    "sentence": "The ice began to melt in the sun."
+  },
+  {
+    "word": "grin",
+    "difficulty": "medium",
+    "meaning": "A wide smile.",
+    "sentence": "He gave us a grin when he solved the puzzle."
+  },
+  {
+    "word": "pond",
+    "difficulty": "medium",
+    "meaning": "A small area of still water.",
+    "sentence": "Ducks paddled across the pond."
+  },
+  {
+    "word": "roam",
+    "difficulty": "medium",
+    "meaning": "To move around without a fixed route.",
+    "sentence": "We watched the deer roam through the meadow."
+  },
+  {
+    "word": "brave",
+    "difficulty": "medium",
+    "meaning": "Ready to face something frightening or difficult.",
+    "sentence": "It was brave of her to try again."
+  },
+  {
+    "word": "blend",
+    "difficulty": "medium",
+    "meaning": "To mix things together.",
+    "sentence": "We blend the fruit with yogurt to make a smoothie."
+  },
+  {
+    "word": "craft",
+    "difficulty": "medium",
+    "meaning": "An activity in which things are made skillfully by hand.",
+    "sentence": "We tried a paper craft after lunch."
+  },
+  {
+    "word": "drift",
+    "difficulty": "medium",
+    "meaning": "To move slowly, carried by air or water.",
+    "sentence": "We watched a leaf drift along the stream."
+  },
+  {
+    "word": "frost",
+    "difficulty": "medium",
+    "meaning": "A thin layer of ice crystals on a surface.",
+    "sentence": "Frost covered the car window in the morning."
+  },
+  {
+    "word": "gleam",
+    "difficulty": "medium",
+    "meaning": "A small or brief shine of light.",
+    "sentence": "We saw a gleam of sunlight on the water."
+  },
+  {
+    "word": "orbit",
+    "difficulty": "medium",
+    "meaning": "The path an object follows as it travels around another object in space.",
+    "sentence": "The Moon follows an orbit around Earth."
+  },
+  {
+    "word": "pride",
+    "difficulty": "medium",
+    "meaning": "A feeling of satisfaction about something done well.",
+    "sentence": "She felt pride in the garden she had grown."
+  },
+  {
+    "word": "swift",
+    "difficulty": "medium",
+    "meaning": "Moving or happening quickly.",
+    "sentence": "The swift river flowed past the rocks."
+  },
+  {
+    "word": "trail",
+    "difficulty": "medium",
+    "meaning": "A path through a natural area.",
+    "sentence": "We followed the trail to the waterfall."
+  },
+  {
+    "word": "absorb",
+    "difficulty": "medium",
+    "meaning": "To take in a liquid, energy, or information.",
+    "sentence": "A sponge can absorb spilled water."
+  },
+  {
+    "word": "anchor",
+    "difficulty": "medium",
+    "meaning": "A heavy object used to keep a boat in place.",
+    "sentence": "The crew lowered the anchor near the shore."
+  },
+  {
+    "word": "breeze",
+    "difficulty": "medium",
+    "meaning": "A gentle wind.",
+    "sentence": "A cool breeze moved through the trees."
+  },
+  {
+    "word": "clever",
+    "difficulty": "medium",
+    "meaning": "Good at understanding things or finding solutions.",
+    "sentence": "That was a clever way to build the bridge."
+  },
+  {
+    "word": "forest",
+    "difficulty": "medium",
+    "meaning": "A large area covered with trees.",
+    "sentence": "We walked quietly through the forest."
+  },
+  {
+    "word": "glance",
+    "difficulty": "medium",
+    "meaning": "A quick look.",
+    "sentence": "She took a glance at the clock."
+  },
+  {
+    "word": "humble",
+    "difficulty": "medium",
+    "meaning": "Not acting as though you are better than others.",
+    "sentence": "The winner stayed humble and thanked the team."
+  },
+  {
+    "word": "jigsaw",
+    "difficulty": "medium",
+    "meaning": "A puzzle made of pieces that fit together to form a picture.",
+    "sentence": "We finished the jigsaw on a rainy afternoon."
+  },
+  {
+    "word": "rescue",
+    "difficulty": "medium",
+    "meaning": "To save someone or something from danger.",
+    "sentence": "The lifeguard helped rescue the swimmer."
+  },
+  {
+    "word": "sprout",
+    "difficulty": "medium",
+    "meaning": "A new shoot growing from a seed or plant.",
+    "sentence": "A green sprout appeared in the pot."
+  },
+  {
+    "word": "balance",
+    "difficulty": "medium",
+    "meaning": "A steady position in which something does not fall.",
+    "sentence": "She kept her balance on the stepping stones."
+  },
+  {
+    "word": "courage",
+    "difficulty": "medium",
+    "meaning": "The ability to face fear or difficulty.",
+    "sentence": "It took courage to speak in front of the class."
+  },
+  {
+    "word": "explore",
+    "difficulty": "medium",
+    "meaning": "To travel around a place or investigate something to learn about it.",
+    "sentence": "We decided to explore the nature trail."
+  },
+  {
+    "word": "journey",
+    "difficulty": "medium",
+    "meaning": "A trip from one place to another.",
+    "sentence": "Our train journey took us through the mountains."
+  },
+  {
+    "word": "mystery",
+    "difficulty": "medium",
+    "meaning": "Something that is not yet understood or explained.",
+    "sentence": "The missing key was a mystery."
+  },
+  {
+    "word": "observe",
+    "difficulty": "medium",
+    "meaning": "To watch carefully and notice details.",
+    "sentence": "We observe the birds without disturbing them."
+  },
+  {
+    "word": "patient",
+    "difficulty": "medium",
+    "meaning": "Able to wait calmly without getting upset.",
+    "sentence": "She was patient while the glue dried."
+  },
+  {
+    "word": "protect",
+    "difficulty": "medium",
+    "meaning": "To keep someone or something safe.",
+    "sentence": "A helmet helps protect your head."
+  },
+  {
+    "word": "reflect",
+    "difficulty": "medium",
+    "meaning": "To send back light, heat, or sound from a surface.",
+    "sentence": "A mirror can reflect light across the room."
+  },
+  {
+    "word": "whisper",
+    "difficulty": "medium",
+    "meaning": "To speak very softly.",
+    "sentence": "We had to whisper in the quiet library."
+  },
+  {
+    "word": "apt",
+    "difficulty": "hard",
+    "meaning": "Suitable for a particular situation.",
+    "sentence": "That was an apt name for the playful puppy."
+  },
+  {
+    "word": "gnu",
+    "difficulty": "hard",
+    "meaning": "A large African antelope also called a wildebeest.",
+    "sentence": "The gnu crossed the plain with its herd."
+  },
+  {
+    "word": "hew",
+    "difficulty": "hard",
+    "meaning": "To cut or shape something using strong blows.",
+    "sentence": "The workers would hew the stone into blocks."
+  },
+  {
+    "word": "ire",
+    "difficulty": "hard",
+    "meaning": "Strong anger.",
+    "sentence": "The unfair decision caused the crowd's ire."
+  },
+  {
+    "word": "ode",
+    "difficulty": "hard",
+    "meaning": "A poem written to celebrate or praise someone or something.",
+    "sentence": "She wrote an ode to her favorite tree."
+  },
+  {
+    "word": "owe",
+    "difficulty": "hard",
+    "meaning": "To need to pay or give something to someone.",
+    "sentence": "I owe you a thank-you for your help."
+  },
+  {
+    "word": "rue",
+    "difficulty": "hard",
+    "meaning": "To feel sorry about something you did.",
+    "sentence": "He came to rue his hasty choice."
+  },
+  {
+    "word": "urn",
+    "difficulty": "hard",
+    "meaning": "A container with a rounded body, often used as a decorative vase.",
+    "sentence": "A tall urn stood beside the doorway."
+  },
+  {
+    "word": "via",
+    "difficulty": "hard",
+    "meaning": "By way of a particular place or method.",
+    "sentence": "We traveled to the coast via a mountain road."
+  },
+  {
+    "word": "woe",
+    "difficulty": "hard",
+    "meaning": "Great sadness or trouble.",
+    "sentence": "The story began with a tale of woe."
+  },
+  {
+    "word": "aeon",
+    "difficulty": "hard",
+    "meaning": "An extremely long period of time.",
+    "sentence": "To the waiting child, five minutes felt like an aeon."
+  },
+  {
+    "word": "brim",
+    "difficulty": "hard",
+    "meaning": "The top edge of a container.",
+    "sentence": "She filled the cup almost to the brim."
+  },
+  {
+    "word": "coax",
+    "difficulty": "hard",
+    "meaning": "To persuade gently and patiently.",
+    "sentence": "We tried to coax the shy puppy out of its hiding place."
+  },
+  {
+    "word": "deft",
+    "difficulty": "hard",
+    "meaning": "Skillful, quick, and careful.",
+    "sentence": "With a deft movement, she caught the falling pencil."
+  },
+  {
+    "word": "glum",
+    "difficulty": "hard",
+    "meaning": "Looking or feeling unhappy.",
+    "sentence": "He felt glum when the picnic was canceled."
+  },
+  {
+    "word": "heed",
+    "difficulty": "hard",
+    "meaning": "To pay careful attention to advice or a warning.",
+    "sentence": "We should heed the signs near the cliff."
+  },
+  {
+    "word": "lilt",
+    "difficulty": "hard",
+    "meaning": "A cheerful, gently rising and falling rhythm in a voice or tune.",
+    "sentence": "There was a happy lilt in her voice."
+  },
+  {
+    "word": "mire",
+    "difficulty": "hard",
+    "meaning": "Soft, wet ground in which things can become stuck.",
+    "sentence": "The wagon wheels sank into the mire."
+  },
+  {
+    "word": "rift",
+    "difficulty": "hard",
+    "meaning": "A deep crack or a serious break in a relationship.",
+    "sentence": "The earthquake opened a rift in the ground."
+  },
+  {
+    "word": "tact",
+    "difficulty": "hard",
+    "meaning": "Skill in speaking or acting without upsetting others.",
+    "sentence": "She used tact when explaining the mistake."
+  },
+  {
+    "word": "adage",
+    "difficulty": "hard",
+    "meaning": "An old saying that expresses a general idea or lesson.",
+    "sentence": "The adage reminded us that practice helps us improve."
+  },
+  {
+    "word": "adept",
+    "difficulty": "hard",
+    "meaning": "Very skilled at doing something.",
+    "sentence": "He became adept at solving number puzzles."
+  },
+  {
+    "word": "agile",
+    "difficulty": "hard",
+    "meaning": "Able to move quickly and easily.",
+    "sentence": "The agile squirrel leaped between branches."
+  },
+  {
+    "word": "amble",
+    "difficulty": "hard",
+    "meaning": "To walk at a slow, relaxed pace.",
+    "sentence": "We chose to amble along the shore."
+  },
+  {
+    "word": "azure",
+    "difficulty": "hard",
+    "meaning": "A bright blue color like a clear sky.",
+    "sentence": "The painting showed an azure sea."
+  },
+  {
+    "word": "covet",
+    "difficulty": "hard",
+    "meaning": "To strongly want something that belongs to someone else.",
+    "sentence": "He began to covet his friend's shiny new bicycle."
+  },
+  {
+    "word": "elude",
+    "difficulty": "hard",
+    "meaning": "To escape from someone or avoid being caught or understood.",
+    "sentence": "The clever fox managed to elude the pursuers."
+  },
+  {
+    "word": "feign",
+    "difficulty": "hard",
+    "meaning": "To pretend to have a feeling or condition.",
+    "sentence": "She tried to feign surprise at the party."
+  },
+  {
+    "word": "quell",
+    "difficulty": "hard",
+    "meaning": "To stop or calm something troublesome.",
+    "sentence": "A few reassuring words helped quell his fears."
+  },
+  {
+    "word": "vivid",
+    "difficulty": "hard",
+    "meaning": "Very bright, clear, or easy to imagine.",
+    "sentence": "She gave a vivid description of the rainforest."
+  },
+  {
+    "word": "abacus",
+    "difficulty": "hard",
+    "meaning": "A counting tool with beads that slide on rods.",
+    "sentence": "We used an abacus to practice addition."
+  },
+  {
+    "word": "benign",
+    "difficulty": "hard",
+    "meaning": "Gentle or not harmful.",
+    "sentence": "The old dog had a benign expression."
+  },
+  {
+    "word": "candid",
+    "difficulty": "hard",
+    "meaning": "Honest and direct in what you say.",
+    "sentence": "She gave a candid answer about the difficult project."
+  },
+  {
+    "word": "cipher",
+    "difficulty": "hard",
+    "meaning": "A system that changes a message into secret symbols or letters.",
+    "sentence": "We used a cipher to write a secret note."
+  },
+  {
+    "word": "debunk",
+    "difficulty": "hard",
+    "meaning": "To show that a claim or belief is false.",
+    "sentence": "The experiment helped debunk the mistaken claim."
+  },
+  {
+    "word": "embark",
+    "difficulty": "hard",
+    "meaning": "To begin a journey or a new activity.",
+    "sentence": "We were ready to embark on our adventure."
+  },
+  {
+    "word": "fervor",
+    "difficulty": "hard",
+    "meaning": "Strong enthusiasm or feeling.",
+    "sentence": "The team practiced with great fervor."
+  },
+  {
+    "word": "mosaic",
+    "difficulty": "hard",
+    "meaning": "A picture or pattern made from many small pieces.",
+    "sentence": "We made a mosaic from colorful paper squares."
+  },
+  {
+    "word": "nuance",
+    "difficulty": "hard",
+    "meaning": "A small but meaningful difference in expression, meaning, or color.",
+    "sentence": "Her drawing captured every nuance of the sunset."
+  },
+  {
+    "word": "quiver",
+    "difficulty": "hard",
+    "meaning": "To shake with small, quick movements.",
+    "sentence": "The leaves began to quiver in the breeze."
+  },
+  {
+    "word": "alchemy",
+    "difficulty": "hard",
+    "meaning": "An old practice that tried to change ordinary metals into gold and find special cures.",
+    "sentence": "The museum displayed an old book about alchemy."
+  },
+  {
+    "word": "brevity",
+    "difficulty": "hard",
+    "meaning": "The quality of using few words or lasting a short time.",
+    "sentence": "We appreciated the brevity of the announcement."
+  },
+  {
+    "word": "cascade",
+    "difficulty": "hard",
+    "meaning": "A small waterfall or a series of things falling in stages.",
+    "sentence": "A cascade splashed down the rocks."
+  },
+  {
+    "word": "elusive",
+    "difficulty": "hard",
+    "meaning": "Difficult to find, catch, or understand.",
+    "sentence": "The elusive butterfly disappeared behind the flowers."
+  },
+  {
+    "word": "empathy",
+    "difficulty": "hard",
+    "meaning": "The ability to understand and care about another person's feelings.",
+    "sentence": "She showed empathy when her friend felt lonely."
+  },
+  {
+    "word": "fractal",
+    "difficulty": "hard",
+    "meaning": "A pattern with similar shapes repeated at different sizes.",
+    "sentence": "We studied a fractal pattern on the computer."
+  },
+  {
+    "word": "kinetic",
+    "difficulty": "hard",
+    "meaning": "Related to motion.",
+    "sentence": "A moving bicycle has kinetic energy."
+  },
+  {
+    "word": "paradox",
+    "difficulty": "hard",
+    "meaning": "Something that seems contradictory but may still be true or meaningful.",
+    "sentence": "The puzzle presented a surprising paradox."
+  },
+  {
+    "word": "prudent",
+    "difficulty": "hard",
+    "meaning": "Careful and sensible about possible risks.",
+    "sentence": "It was prudent to check the weather before hiking."
+  },
+  {
+    "word": "vibrant",
+    "difficulty": "hard",
+    "meaning": "Full of energy or bright color.",
+    "sentence": "The garden looked vibrant in spring."
+  },
+  {
+    "word": "act",
+    "difficulty": "medium",
+    "meaning": "To do something or perform a role in a play or film.",
+    "sentence": "She will act in the school play."
+  },
+  {
+    "word": "sub",
+    "difficulty": "medium",
+    "meaning": "A short name for a submarine, a vessel that travels underwater.",
+    "sentence": "The sub explored deep beneath the waves."
+  },
+  {
+    "word": "odor",
+    "difficulty": "medium",
+    "meaning": "A smell.",
+    "sentence": "A sweet odor came from the flowers."
+  },
+  {
+    "word": "beard",
+    "difficulty": "medium",
+    "meaning": "Hair growing on a person's chin and cheeks.",
+    "sentence": "The costume included a long white beard."
+  },
+  {
+    "word": "bared",
+    "difficulty": "hard",
+    "meaning": "Uncovered or made visible.",
+    "sentence": "The strong wind bared the roots of the fallen tree."
+  },
+  {
+    "word": "debar",
+    "difficulty": "hard",
+    "meaning": "To officially prevent someone from doing something.",
+    "sentence": "Breaking the rules can debar a player from the contest."
+  },
+  {
+    "word": "could",
+    "difficulty": "easy",
+    "meaning": "Was able to, or might be able to.",
+    "sentence": "I could hear the birds outside."
+  },
+  {
+    "word": "armed",
+    "difficulty": "medium",
+    "meaning": "Equipped with something useful for a task.",
+    "sentence": "Armed with a map, we set off along the trail."
+  },
+  {
+    "word": "danger",
+    "difficulty": "medium",
+    "meaning": "The possibility of harm.",
+    "sentence": "The sign warned us of danger near the edge."
+  },
+  {
+    "word": "gander",
+    "difficulty": "hard",
+    "meaning": "An adult male goose.",
+    "sentence": "The gander watched over the flock."
+  },
+  {
+    "word": "ranged",
+    "difficulty": "hard",
+    "meaning": "Varied between limits or traveled over an area.",
+    "sentence": "The colors ranged from pale pink to deep red."
+  },
+  {
+    "word": "cleats",
+    "difficulty": "medium",
+    "meaning": "Shoes with small projections on the soles to improve grip.",
+    "sentence": "She wore cleats for the soccer match."
+  },
+  {
+    "word": "platen",
+    "difficulty": "hard",
+    "meaning": "A flat plate or roller that presses paper in a machine.",
+    "sentence": "The paper rested against the platen of the old typewriter."
+  },
+  {
+    "word": "cheater",
+    "difficulty": "medium",
+    "meaning": "Someone who breaks rules to gain an unfair advantage.",
+    "sentence": "The cheater had to leave the game."
+  },
+  {
+    "word": "hectare",
+    "difficulty": "hard",
+    "meaning": "An area equal to ten thousand square meters.",
+    "sentence": "The farm planted a hectare of sunflowers."
+  },
+  {
+    "word": "tan",
+    "difficulty": "medium",
+    "meaning": "A pale brown color.",
+    "sentence": "The puppy had soft tan fur."
+  },
+  {
+    "word": "has",
+    "difficulty": "easy",
+    "meaning": "Owns, holds, or possesses something.",
+    "sentence": "She has a new library card."
+  },
+  {
+    "word": "wed",
+    "difficulty": "hard",
+    "meaning": "To marry.",
+    "sentence": "The story ends when the two characters wed."
+  },
+  {
+    "word": "kin",
+    "difficulty": "hard",
+    "meaning": "Family members or relatives.",
+    "sentence": "We spent the holiday with our kin."
+  },
+  {
+    "word": "ten",
+    "difficulty": "easy",
+    "meaning": "The number after nine and before eleven.",
+    "sentence": "There were ten crayons in the box."
+  },
+  {
+    "word": "clam",
+    "difficulty": "medium",
+    "meaning": "A water animal with a shell made of two hinged parts.",
+    "sentence": "A clam rested beneath the sand."
+  },
+  {
+    "word": "ring",
+    "difficulty": "easy",
+    "meaning": "A small circular band, often worn on a finger.",
+    "sentence": "She placed the ring in a little box."
+  },
+  {
+    "word": "forts",
+    "difficulty": "medium",
+    "meaning": "Strong buildings or places made for defense.",
+    "sentence": "We built pretend forts out of cushions."
+  },
+  {
+    "word": "pried",
+    "difficulty": "hard",
+    "meaning": "Lifted or opened something by using a lever or force.",
+    "sentence": "She pried the lid off the wooden crate."
+  },
+  {
+    "word": "trial",
+    "difficulty": "medium",
+    "meaning": "A test to find out how well something works.",
+    "sentence": "We gave our model boat a trial in the tub."
+  },
+  {
+    "word": "foster",
+    "difficulty": "hard",
+    "meaning": "To encourage something to grow or develop.",
+    "sentence": "Team games can foster cooperation."
+  },
+  {
+    "word": "secure",
+    "difficulty": "medium",
+    "meaning": "Firmly fixed, protected, or safe.",
+    "sentence": "We made sure the tent ropes were secure."
+  },
+  {
+    "word": "recuse",
+    "difficulty": "hard",
+    "meaning": "To step away from judging a matter because you might not be impartial.",
+    "sentence": "A judge may recuse herself from a case involving a friend."
+  },
+  {
+    "word": "stupor",
+    "difficulty": "hard",
+    "meaning": "A state of being dazed and unable to think clearly.",
+    "sentence": "The sleepy traveler stared in a stupor after the long journey."
+  },
+  {
+    "word": "obverse",
+    "difficulty": "hard",
+    "meaning": "The front or main side of a coin or medal.",
+    "sentence": "The obverse of the coin showed a portrait."
+  },
+  {
+    "word": "amp",
+    "difficulty": "hard",
+    "meaning": "A unit used to measure electric current, short for ampere.",
+    "sentence": "The meter showed a current of one amp."
+  },
+  {
+    "word": "flea",
+    "difficulty": "medium",
+    "meaning": "A tiny jumping insect that feeds on animals.",
+    "sentence": "The vet checked the puppy for a flea."
+  },
+  {
+    "word": "mono",
+    "difficulty": "hard",
+    "meaning": "Sound reproduced through one audio channel.",
+    "sentence": "The old recording played in mono."
+  },
+  {
+    "word": "pat",
+    "difficulty": "easy",
+    "meaning": "A gentle touch with a flat hand.",
+    "sentence": "She gave the puppy a gentle pat."
+  },
+  {
+    "word": "tap",
+    "difficulty": "easy",
+    "meaning": "To touch something lightly and quickly.",
+    "sentence": "Give the drum a soft tap."
+  },
+  {
+    "word": "gun",
+    "difficulty": "medium",
+    "meaning": "A device used to direct or project something, such as glue or water.",
+    "sentence": "She used a glue gun for her craft."
+  },
+  {
+    "word": "doe",
+    "difficulty": "medium",
+    "meaning": "An adult female deer.",
+    "sentence": "A doe stood quietly beside the trees."
+  },
+  {
+    "word": "run",
+    "difficulty": "easy",
+    "meaning": "To move quickly on foot.",
+    "sentence": "We like to run around the playground."
+  },
+  {
+    "word": "till",
+    "difficulty": "hard",
+    "meaning": "Until a particular time.",
+    "sentence": "We stayed at the park till sunset."
+  },
+  {
+    "word": "emir",
+    "difficulty": "hard",
+    "meaning": "A title used for a ruler or leader in some countries.",
+    "sentence": "The emir welcomed the visitors to the palace."
+  },
+  {
+    "word": "rime",
+    "difficulty": "hard",
+    "meaning": "A white coating of ice formed from freezing water drops.",
+    "sentence": "Rime covered the branches on the freezing morning."
+  },
+  {
+    "word": "taped",
+    "difficulty": "medium",
+    "meaning": "Attached something using tape.",
+    "sentence": "We taped the drawing to the wall."
+  },
+  {
+    "word": "blame",
+    "difficulty": "medium",
+    "meaning": "To say that someone is responsible for something that went wrong.",
+    "sentence": "It is unfair to blame someone before knowing what happened."
+  },
+  {
+    "word": "fortes",
+    "difficulty": "hard",
+    "meaning": "Things that people are particularly good at doing.",
+    "sentence": "Music and painting were her fortes."
+  },
+  {
+    "word": "onager",
+    "difficulty": "hard",
+    "meaning": "A wild ass native to parts of Asia.",
+    "sentence": "The onager ran across the dry plain."
+  },
+  {
+    "word": "cuprite",
+    "difficulty": "hard",
+    "meaning": "A reddish mineral that contains copper.",
+    "sentence": "The mineral display included a crystal of cuprite."
+  },
+  {
+    "word": "rancho",
+    "difficulty": "hard",
+    "meaning": "A ranch or a small settlement associated with a ranch.",
+    "sentence": "The old rancho stood near the valley."
+  },
+  {
+    "word": "frit",
+    "difficulty": "hard",
+    "meaning": "Crushed or partly fused glass used in making glass or glazes.",
+    "sentence": "The artist added colored frit to the glass design."
+  },
+  {
+    "word": "tike",
+    "difficulty": "hard",
+    "meaning": "An informal word for a small child, also spelled tyke.",
+    "sentence": "The playful tike ran toward the swings."
+  },
+  {
+    "word": "ivy",
+    "difficulty": "hard",
+    "meaning": "A climbing plant that often has evergreen leaves.",
+    "sentence": "Ivy climbed up the old stone wall."
+  }
+]

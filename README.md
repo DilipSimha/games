@@ -4,6 +4,7 @@ A family-friendly collection of geography, history and people quizzes.
 
 Play at **https://dilipsimha.github.io/games/**.
 
+- **Word Game:** unscramble 3–7-letter words in one minute. Exact spelling, 10 available points per word, a 3-point meaning hint, greyed-out wrong guesses, and manual next-question controls. Learn each revealed word with its meaning and an example sentence.
 - **Guess the Celebrity:** 500 different celebrities and cultural figures across seven categories, each with Easy, Medium and Hard clues. Celebrity familiarity is a separate filter. On Hard, household names reveal only their eyes halfway through the timer; the full portrait appears after a guess or timeout.
 - **World Explorer:** choose a continent and identify countries, then discover capitals, flags, population and leadership facts.
 - **The 50 States:** explore U.S. statehood, capitals, admission stories, presidents, population and election information.
