@@ -1,0 +1,6 @@
+node_modules/
+playwright-report/
+test-results/
+dist/
+.openai/
+START_HERE.txt
