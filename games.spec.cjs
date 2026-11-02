@@ -140,3 +140,36 @@ test('USA: countdown, admission history, political color, next and reset', async
   await page.locator('#reset').click();
   await expect(page.locator('#phase')).toHaveText('READY TO PLAY');
 });
+
+for (const category of ['Business & entrepreneurs','Artists & designers','Filmmakers & directors','Explorers & adventurers','Humanitarians & reformers','Media & creators']) {
+  test(`celebrity expansion: ${category}, hard clues, pictures and scoring`, async ({ page }) => {
+    await page.goto('celebrity.html');
+    await expect(page.locator('#start')).toBeEnabled();
+    await expect(page.locator('#category option')).toHaveCount(14);
+    await page.locator('#category').selectOption(category);
+    await expect(page.locator('#setupStatus')).toContainText('20 celebrities');
+    await page.locator('[data-level="hard"]').click();
+    await page.locator('#rounds').selectOption('5');
+    await page.locator('#guessTime').selectOption('8');
+    await page.locator('#start').click();
+    await page.locator('#autoNext').uncheck();
+    const seen = new Set();
+    for(let i=0;i<5;i++) {
+      const question=await page.locator('#question').innerText();
+      const person=people.find(x=>x.clues.hard===question);
+      expect(person.category).toBe(category);
+      expect(seen.has(person.id)).toBe(false); seen.add(person.id);
+      await page.clock.fastForward(4100);
+      if(person.familiarity==='household') {
+        await expect(page.locator('.eye-window')).toBeVisible();
+        await expect(page.locator('.eye-window')).toHaveAttribute('data-asset','celebrity-eyes-extra.webp');
+      } else await expect(page.locator('#portrait')).not.toHaveCSS('background-image','none');
+      await page.locator(`[data-answer="${person.id}"]`).click();
+      await expect(page.locator('#answerName')).toHaveText(person.name);
+      await expect(page.locator('#portrait')).toHaveAttribute('data-asset',/celebrity-faces-[67]\.webp/);
+      await expect(page.locator('.eye-window')).toHaveCount(0);
+      await page.locator('#next').click();
+    }
+    await expect(page.locator('#finalScore')).toHaveText('5 / 5');
+  });
+}
