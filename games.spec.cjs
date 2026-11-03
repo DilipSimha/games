@@ -1,6 +1,6 @@
 const { test, expect } = require('@playwright/test');
 const words = require('./word-data.json');
-const people = require('./celebrity-data.json');
+const people = require('./celebrity-bank.cjs');
 const key = s => s.toLowerCase().replace(/[^a-z]/g,'').split('').sort().join('');
 
 test.beforeEach(async ({ page }) => {
@@ -141,13 +141,13 @@ test('USA: countdown, admission history, political color, next and reset', async
   await expect(page.locator('#phase')).toHaveText('READY TO PLAY');
 });
 
-for (const category of ['Business & entrepreneurs','Artists & designers','Filmmakers & directors','Explorers & adventurers','Humanitarians & reformers','Media & creators']) {
-  test(`celebrity expansion: ${category}, hard clues, pictures and scoring`, async ({ page }) => {
+for (const category of [...new Set(people.map(x=>x.category))]) {
+  test(`celebrity category of 75: ${category}, hard clues, pictures and scoring`, async ({ page }) => {
     await page.goto('celebrity.html');
     await expect(page.locator('#start')).toBeEnabled();
     await expect(page.locator('#category option')).toHaveCount(14);
     await page.locator('#category').selectOption(category);
-    await expect(page.locator('#setupStatus')).toContainText('20 celebrities');
+    await expect(page.locator('#setupStatus')).toContainText('75 celebrities');
     await page.locator('[data-level="hard"]').click();
     await page.locator('#rounds').selectOption('5');
     await page.locator('#guessTime').selectOption('8');
@@ -162,11 +162,11 @@ for (const category of ['Business & entrepreneurs','Artists & designers','Filmma
       await page.clock.fastForward(4100);
       if(person.familiarity==='household') {
         await expect(page.locator('.eye-window')).toBeVisible();
-        await expect(page.locator('.eye-window')).toHaveAttribute('data-asset','celebrity-eyes-extra.webp');
+        await expect(page.locator('.eye-window')).toHaveAttribute('data-asset',/^celebrity-eyes(?:-extra|-growth)?\.webp$/);
       } else await expect(page.locator('#portrait')).not.toHaveCSS('background-image','none');
       await page.locator(`[data-answer="${person.id}"]`).click();
       await expect(page.locator('#answerName')).toHaveText(person.name);
-      await expect(page.locator('#portrait')).toHaveAttribute('data-asset',/celebrity-faces-[67]\.webp/);
+      await expect(page.locator('#portrait')).toHaveAttribute('data-asset',/^celebrity-faces-(?:[1-9]|10|11)\.webp$/);
       await expect(page.locator('.eye-window')).toHaveCount(0);
       await page.locator('#next').click();
     }
